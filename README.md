@@ -8,6 +8,11 @@
    - Features
    - Design Decisions
    - Key Screens
+2. [Crypto Loan App](#crypto-loan-app)
+   - Project Overview
+   - Features
+   - Design Decisions
+   - Key Screens
 
 ---
 
@@ -38,4 +43,36 @@
 
 ### Prototype Link
 [ReMi App Prototype](https://www.figma.com/proto/KwwVf95iNG2TyMDblbhMAk/CCU?node-id=295-928&t=S5Ezb1WbhmDrSIbF-1)
+
+---
+
+## 2. Crypto Loan App
+
+### Project Overview
+The **Crypto Loan App** is designed to offer users a simple, secure, and streamlined way to create, manage, and track loans, integrating traditional currencies with cryptocurrencies. By providing a platform where users can allocate portions of their loans in digital currencies such as Bitcoin, Ethereum, and Algorand, the app makes it easier for users to diversify their loan payments and investments. The app also offers transaction history management and loan request tracking to ensure complete financial transparency.
+
+### Features
+- **New Loan Creation:** Users can create new loans by specifying the loan amount, duration, fees, and initial payment, either in traditional currency or cryptocurrency.
+- **Choose Coins Option:** The app provides an option to allocate loan payments in various cryptocurrencies. Users can select coins from a predefined list and distribute their loan amount accordingly.
+- **Transaction Overview:** Users can access their loan history and manage active and previous loan transactions with detailed breakdowns.
+- **Loan Request History:** Allows users to view and filter available loan requests, sorting by factors such as cost, return, and duration.
+- **Sorting & Filtering:** Users can sort loan requests based on key parameters like cost, return, and duration, while using filters to limit search results (e.g., loans under 12 months).
+
+### Design Decisions
+- **Dark Mode Interface:** The app features a modern, dark-themed interface to reduce eye strain and provide a sleek, professional look that appeals to crypto-savvy users.
+- **Simple & Intuitive Layout:** The design focuses on simplicity, with minimalistic icons and easy-to-understand navigation for users to manage loans with ease.
+- **Clear Iconography:** Each key function is represented by clear and intuitive icons, ensuring the user understands the app's features at a glance.
+- **Cryptocurrency Focused:** Given the integration of crypto options, the interface ensures that selecting, calculating, and managing crypto assets is straightforward for both novice and experienced users.
+
+### Key Screens
+- **Welcome & Onboarding:** The onboarding screens guide users through creating an account and selecting currencies for use within the app. 
+- **New Loan Screen:** A form where users can create a new loan by entering the loan amount, duration, and initial payment percentage, and selecting the currency allocation for their loan.
+- **Choose Coins Interface:** Users can select the cryptocurrencies they want to use for their loans and set percentages for each coin, ensuring flexible allocation.
+- **Transaction Management:** Displays all loans (active, pending, and completed) in a clear, list-based format, allowing users to monitor their loan history.
+- **Loan Request History:** Shows available loan requests from other users, with options to sort and filter based on various criteria such as cost, duration, and return percentage.
+- **Filter & Sort Options:** Users can filter loan requests based on desired conditions (e.g., loan duration under 12 months), making it easier to find suitable loan opportunities.
+
+### Prototype Link
+[Crypto Loan App Prototype](https://www.figma.com/proto/KwwVf95iNG2TyMDblbhMAk/CCU?node-id=295-928&t=S5Ezb1WbhmDrSIbF-1](https://www.figma.com/proto/dfapmMzYv4i8uzJ2xnNy4M/BAKE-OFF-1?node-id=0-1&t=5sysVHeUaQyX8AbN-1
+)
 
