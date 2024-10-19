@@ -16,7 +16,7 @@
 
 ---
 
-## 1. ReMi - Relocation Made Easy
+## 1. ReMi: Relocation Made Easy
 
 ### Project Overview
 **ReMi** is a relocation assistance app designed to simplify the moving process for users, particularly those relocating to a new city or country. The app helps users manage tasks, explore new locations, and adapt to their new environment with ease. ReMi is designed to reduce the stress and complexity of moving, offering personalized recommendations and tools to make the transition smoother.
