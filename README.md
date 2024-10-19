@@ -3,7 +3,7 @@
 # README
 
 ## Table of Contents
-1. [ReMi: Relocation App](#remi-relocation-app)
+1. [ReMi, Relocation App](#remi-relocation-app)
    - Project Overview
    - Features
    - Design Decisions
