@@ -18,6 +18,11 @@
    - Features
    - Design Decisions
    - Key Screens
+4. [Personal Website](#personal-website)
+   - Project Overview
+   - Features
+   - Design Decisions
+   - Key Screens
 
 ---
 
@@ -116,3 +121,34 @@ The **Crypto Loan App** is designed to offer users a simple, secure, and streaml
 )
 
 ---
+
+## 4. Personal Website
+
+### Project Overview
+This **Personal Website** serves as an enhanced CV and portfolio, designed to highlight key skills, experiences, and projects in a visually appealing and user-friendly format. Built with a professional yet creative style, the site provides prospective employers and collaborators with a comprehensive overview of your work and abilities, while showcasing your unique personality and background.
+
+### Features
+- **Responsive Design:** Optimized for various screen sizes and devices, ensuring a seamless user experience across platforms.
+- **Visual Portfolio Section:** A dedicated space to display key projects with descriptions, features, and links to prototypes or live demos.
+- **Interactive Navigation:** Smooth transitions and intuitive navigation, allowing users to explore sections such as About Me, Skills, Experience, and Education with ease.
+- **Themed Aesthetic:** A cohesive design theme incorporating earthy tones and a warm, welcoming color scheme to reflect professionalism with a personal touch.
+- **Skills Overview:** A categorized breakdown of your programming, graphic design, and soft skills, clearly presented to highlight your expertise.
+- **Experience Timeline:** Organized sections for internship, student organizations, tutoring, and volunteer experiences, providing detailed insights into your professional journey.
+- **Downloadable CV Button:** An easy way for visitors to download your resume in PDF format for offline access.
+
+### Design Decisions
+- **Personal Branding:** The website includes elements of personal branding, such as custom headers and consistent color palettes, creating a strong and memorable impression.
+- **Elegant Typography:** Carefully chosen fonts enhance readability and reflect a modern, professional tone throughout the site.
+- **Stylized Sections:** Each section is clearly separated with visual cues such as background images and borders, guiding the user's attention to different content blocks.
+- **Personalization through Imagery:** Custom illustrations and icons give the website a more personable feel, complementing the content with creative visuals.
+- **Warm Color Scheme:** A soothing palette with earthy hues adds an inviting and approachable touch to the professional content.
+
+### Key Screens
+- **About Me Section:** Introduces your background, passions, and goals, along with a profile image that adds a personal connection.
+- **Skills Breakdown:** A detailed section for programming languages, design tools, and soft skills, each categorized for clarity.
+- **Experience and Education:** Organized timeline of key experiences and academic achievements, emphasizing your growth and expertise.
+- **Contact & Social Links:** Includes your email, LinkedIn, GitHub, and any other relevant platforms, providing an easy way for users to connect.
+- **Portfolio Section:** Showcases your best projects with descriptions, screenshots, and links to prototypes or live versions.
+
+### Prototype Link
+[Personal Website Prototype](https://www.figma.com/proto/MJr4BO6OzJbvBhg5zYvLVB/Website-CV?node-id=0-1&t=jUMhNXNpdf2qSNHY-1)
