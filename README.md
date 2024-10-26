@@ -79,7 +79,7 @@ The **Clicky Companion App** is a mental wellness tool designed to help users tr
 - **Profile & Achievements:** A space where users can review their progress, track streaks, and unlock achievements.
 
 ### Prototype Link
-[Clicky Companion App Prototype WIP](https://www.figma.com/proto/UC2rBn1q2buoAE2SHOHmMg/App?node-id=256-1408&t=P7htnFTlR2wzGlHD-1)
+[Clicky Companion App Prototype](https://www.figma.com/proto/UC2rBn1q2buoAE2SHOHmMg/App?node-id=256-1408&t=P7htnFTlR2wzGlHD-1)
 
 ---
 
