@@ -18,6 +18,11 @@
    - Features
    - Design Decisions
    - Key Screens
+4. [SageBook, Cooking Learning App](#sage-cooking-learning-app)
+   - Project Overview
+   - Features
+   - Design Decisions
+   - Key Screens
 
 ---
 
@@ -113,3 +118,37 @@ This **Personal Website** serves as an enhanced CV and portfolio, designed to hi
 
 ### Prototype Link
 [Personal Website Prototype](https://www.figma.com/proto/MJr4BO6OzJbvBhg5zYvLVB/Website-CV?node-id=0-1&t=jUMhNXNpdf2qSNHY-1)
+
+---
+
+## 4. SageBook, Cooking Learning App  
+
+### Project Overview  
+The **SageBook** is an interactive cooking and baking assistant designed to guide users through recipes with step-by-step instructions, offer tips to avoid common mistakes, and teach foundational techniques like browning butter or kneading dough. The app provides a personalized and engaging experience for users at all skill levels, combining learning and fun with a cottagecore-inspired aesthetic.  
+
+### Features  
+- **Interactive Recipe Guidance:** Recipes are broken into simple, actionable steps, with embedded tips to prevent common mistakes.  
+- **Skill Tutorials:** Users can access a library of foundational cooking and baking techniques, from knife skills to advanced pastry methods.  
+- **Personalized Recommendations:** Tailored recipe suggestions based on user preferences and skill levels.  
+- **Gamification:** Users earn points and badges by completing recipes, mastering skills, and achieving cooking milestones.  
+- **Progress Tracking:** Tracks user achievements, skill mastery, and favorite recipes to highlight personal growth in the kitchen.  
+- **Ingredient Substitution Guide:** Provides alternatives for ingredients to accommodate dietary restrictions or missing pantry items.  
+- **Community Tips and Notes:** Users can leave and view shared tips for each recipe step, enhancing the communal learning experience.  
+- **Shopping List Integration:** Automatically generates shopping lists for recipes, ensuring a smooth preparation process.  
+
+### Design Decisions  
+- **Cottagecore Aesthetic:** Warm, earthy colors and vintage-inspired design elements create a cozy, welcoming atmosphere.  
+- **Visual & Audio Prompts:** Step-by-step guidance is accompanied by visuals and optional voice narration for ease of use.  
+- **Gamified Learning:** Badges, points, and streak tracking encourage users to explore more recipes and improve their skills.  
+- **Mobile Optimization:** The app features an intuitive, touch-friendly interface designed for seamless use on smartphones.  
+- **Encouraging Tone:** A friendly and supportive narrative helps reduce intimidation in the kitchen, making learning fun.  
+
+### Key Screens  
+- **Onboarding & Interest Selection:** Welcomes users to the app and allows them to select culinary interests (e.g., baking, global cuisines, or meal prep).  
+- **Recipe Walkthroughs:** Users can follow recipes with clear, visual instructions and built-in tips at key steps.  
+- **Skill Library:** A dedicated section for tutorials, featuring animations and instructions for essential techniques.  
+- **Achievements & Progress Tracking:** Displays badges earned, streaks maintained, and a user’s cooking milestones.  
+- **Community Notes:** Offers a space for users to view or contribute notes and tips for each recipe.  
+
+### Prototype Link  
+[Cooking Companion App Prototype]((https://www.figma.com/proto/uHi2kRUlatW4vGDMtvpI1p/SageBook---A-Cooking-Experience?node-id=0-1&t=7djCgA7dzl55kQEj-1))  
