@@ -18,7 +18,7 @@
    - Features
    - Design Decisions
    - Key Screens
-4. [SageBook, Cooking Learning App](#sage-cooking-learning-app)
+4. [SageBook, Cooking Learning App (WIP)](#sage-cooking-learning-app)
    - Project Overview
    - Features
    - Design Decisions
@@ -121,7 +121,7 @@ This **Personal Website** serves as an enhanced CV and portfolio, designed to hi
 
 ---
 
-## 4. SageBook, Cooking Learning App  
+## 4. SageBook, Cooking Learning App (WIP)  
 
 ### Project Overview  
 The **SageBook** is an interactive cooking and baking assistant designed to guide users through recipes with step-by-step instructions, offer tips to avoid common mistakes, and teach foundational techniques like browning butter or kneading dough. The app provides a personalized and engaging experience for users at all skill levels, combining learning and fun with a cottagecore-inspired aesthetic.  
